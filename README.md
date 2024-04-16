@@ -1,2 +1,2 @@
 # currency_convertor
-A CLI based currency convertor in 12 different currencies
+A simple project CLI based currency convertor in 12 different currencies
